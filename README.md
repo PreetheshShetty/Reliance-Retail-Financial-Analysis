@@ -24,7 +24,6 @@ A practical financial accounting project covering the accounting cycle, GST work
 
 ## Project File
 [Download Excel Dashboard – Reliance Retail FY 2025–26](https://github.com/PreetheshShetty/Reliance-Retail-Financial-Analysis/blob/main/Reliance_Retail_FY2025-26_Dashboard..xlsx)
-**https://github.com/PreetheshShetty/Reliance-Retail-Financial-Analysis/blob/main/Reliance_Retail_FY2025-26_Dashboard..xlsx**
 
 ## Disclaimer
 This is an educational project using simulated financial data. It is not an official financial report of Reliance Retail Limited.
